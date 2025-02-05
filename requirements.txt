@@ -1,0 +1,9 @@
+rouge
+bert_score
+faiss-gpu
+tqdm
+openai
+vllm
+deepspeed
+flash-attn
+llamafactory-cli

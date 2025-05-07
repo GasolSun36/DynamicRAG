@@ -1,5 +1,25 @@
 # DynamicRAG: Leveraging Outputs of Large Language Model as Feedback for Dynamic Reranking in Retrieval-Augmented Generation
 
+<div style='display:flex; gap: 0.25rem; flex-wrap: wrap; align-items: center;'>
+  <a href='LICENCE'>
+    <img src='https://img.shields.io/badge/License-Apache%202.0-g.svg'>
+  </a>
+  <a href=''>
+    <img src='https://img.shields.io/badge/Paper-PDF-red'>
+  </a>
+  <a href='https://x.com/SunJiashuo36'>
+    <img src='https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40Us'>
+  </a>
+   <a href='https://huggingface.co/datasets/gasolsun/DynamicRAG-Eval-Data'>
+  <img src='https://img.shields.io/badge/🤗-Eval_Data-9C276A.svg' alt='eval_data'>
+   </a>
+   <a href='https://huggingface.co/gasolsun/DynamicRAG-7B'>
+     <img src='https://img.shields.io/badge/🤗-DynamicRAG--7B-FFD21E.svg' alt='model'>
+   </a>
+   <a href='https://huggingface.co/gasolsun/DynamicRAG-8B'>
+     <img src='https://img.shields.io/badge/🤗-DynamicRAG--8B-FFD21E.svg' alt='model'>
+   </a>
+</div>
 
 **DynamicRAG** is an innovative framework for Retrieval-Augmented Generation (RAG) that dynamically adjusts both the **order** and **number** of retrieved documents per query. A reinforcement learning (RL) agent serves as the reranker, optimizing document retrieval based on feedback from a **Large Language Model (LLM)**. The training process is divided into two main stages:
 
@@ -12,7 +32,9 @@
 
 
 
-🚀 **Models and datasets (training and evaluation) will be released soon.**
+## 🔥 Update
+* [2025-05-07]: 🚀 We release the [DynamicRAG-7B](https://huggingface.co/gasolsun/DynamicRAG-7B) and [DynamicRAG-8B](https://huggingface.co/gasolsun/DynamicRAG-8B) and [eval-datas](https://huggingface.co/datasets/gasolsun/DynamicRAG-Eval-Data).
+* [2025-05-05]: 🚀 We release the code for training and evaluation.
 
 
 

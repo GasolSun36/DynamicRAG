@@ -4,7 +4,7 @@
   <a href='LICENCE'>
     <img src='https://img.shields.io/badge/License-Apache%202.0-g.svg'>
   </a>
-  <a href=''>
+  <a href='https://arxiv.org/abs/2505.07233'>
     <img src='https://img.shields.io/badge/Paper-PDF-red'>
   </a>
   <a href='https://x.com/SunJiashuo36'>
@@ -33,6 +33,7 @@
 
 
 ## 🔥 Update
+* [2025-05-13]: 🚀 We release the paper: [https://arxiv.org/abs/2505.07233](https://arxiv.org/abs/2505.07233)
 * [2025-05-07]: 🚀 We release the [DynamicRAG-7B](https://huggingface.co/gasolsun/DynamicRAG-7B) and [DynamicRAG-8B](https://huggingface.co/gasolsun/DynamicRAG-8B) and [eval-datas](https://huggingface.co/datasets/gasolsun/DynamicRAG-Eval-Data).
 * [2025-05-05]: 🚀 We release the code for training and evaluation.
 
@@ -42,13 +43,12 @@
 
 - [DynamicRAG Overview](#dynamicrag-overview)
 - [Project Visualizations](#project-visualizations)
-- [Data Processing Pipeline](#📌-data-processing-pipeline)
-  - [Example: Training LLaMA3-8B with Top-40 Documents](#example-training-llama3-8b-with-top-40-documents)
-- [Supervised Fine-Tuning (SFT) Training](#🎯-supervised-fine-tuning-sft-training)
-- [Interactive Data Collection](#🤖-interactive-data-collection)
-- [Direct Preference Optimization (DPO) Training](#📈-direct-preference-optimization-dpo-training)
-- [Inference and Evaluation](#🔍-inference-and-evaluation)
-- [Licensing and Claims](#📄-licensing-and-claims)
+- [📌 Data Processing Pipeline](#-data-processing-pipeline)
+- [🎯 Supervised Fine-Tuning (SFT) Training](#-supervised-fine-tuning-sft-training)
+- [🤖 Interactive Data Collection](#-interactive-data-collection)
+- [📈 Direct Preference Optimization (DPO) Training](#-direct-preference-optimization-dpo-training)
+- [🔍 Inference and Evaluation](#-inference-and-evaluation)
+- [📄 Licensing and Claims](#-licensing-and-claims)
 
 ---
 

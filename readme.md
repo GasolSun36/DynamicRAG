@@ -10,7 +10,10 @@
   <a href='https://x.com/SunJiashuo36/status/1922117916788404665'>
     <img src='https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40Us'>
   </a>
-   <a href='https://huggingface.co/datasets/gasolsun/DynamicRAG-Eval-Data'>
+   <a href='[https://huggingface.co/datasets/gasolsun/DynamicRAG-Eval-Data](https://huggingface.co/datasets/gasolsun/DynamicRAG_Training_Data_150k)'>
+  <img src='https://img.shields.io/badge/🤗-Training_Data-9C276A.svg' alt='training_data'>
+   </a>
+  <a href='https://huggingface.co/datasets/gasolsun/DynamicRAG-Eval-Data'>
   <img src='https://img.shields.io/badge/🤗-Eval_Data-9C276A.svg' alt='eval_data'>
    </a>
    <a href='https://huggingface.co/gasolsun/DynamicRAG-7B'>
@@ -46,6 +49,7 @@ If you extend or use this work, please cite the [paper](https://arxiv.org/abs/22
 ```
 
 ## 🔥 Update
+* [2025-07-13]: 🚀 We release the training data of DynamicRAG: [DynamicRAG_Training_Data_150k](https://huggingface.co/datasets/gasolsun/DynamicRAG_Training_Data_150k)
 * [2025-05-13]: 🚀 We release the paper: [https://arxiv.org/abs/2505.07233](https://arxiv.org/abs/2505.07233)
 * [2025-05-07]: 🚀 We release the [DynamicRAG-7B](https://huggingface.co/gasolsun/DynamicRAG-7B) and [DynamicRAG-8B](https://huggingface.co/gasolsun/DynamicRAG-8B) and [eval-datas](https://huggingface.co/datasets/gasolsun/DynamicRAG-Eval-Data).
 * [2025-05-05]: 🚀 We release the code for training and evaluation.

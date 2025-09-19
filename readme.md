@@ -49,6 +49,7 @@ If you extend or use this work, please cite the [paper](https://arxiv.org/abs/22
 ```
 
 ## 🔥 Update
+* [2025-09-18]: 🚀 Our paper is accepted by NeurIPS 2025! See you in San Diego! 🥳🥳🥳
 * [2025-07-13]: 🚀 We release the training data of DynamicRAG: [DynamicRAG_Training_Data_150k](https://huggingface.co/datasets/gasolsun/DynamicRAG_Training_Data_150k)
 * [2025-05-13]: 🚀 We release the paper: [https://arxiv.org/abs/2505.07233](https://arxiv.org/abs/2505.07233)
 * [2025-05-07]: 🚀 We release the [DynamicRAG-7B](https://huggingface.co/gasolsun/DynamicRAG-7B) and [DynamicRAG-8B](https://huggingface.co/gasolsun/DynamicRAG-8B) and [eval-datas](https://huggingface.co/datasets/gasolsun/DynamicRAG-Eval-Data).

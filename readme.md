@@ -10,7 +10,7 @@
   <a href='https://x.com/SunJiashuo36/status/1922117916788404665'>
     <img src='https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40Us'>
   </a>
-   <a href='[https://huggingface.co/datasets/gasolsun/DynamicRAG-Eval-Data](https://huggingface.co/datasets/gasolsun/DynamicRAG_Training_Data_150k)'>
+   <a href='https://huggingface.co/datasets/gasolsun/DynamicRAG_Training_Data_150k'>
   <img src='https://img.shields.io/badge/🤗-Training_Data-9C276A.svg' alt='training_data'>
    </a>
   <a href='https://huggingface.co/datasets/gasolsun/DynamicRAG-Eval-Data'>
